@@ -1,0 +1,2 @@
+# Package Name : B87b9c9c_04f1_4eb5_983c_f2259c3842f1Project
+This is a webMethods package and requires a webMethods Integration Server to host it. Package versioning and configuration can be found in the package [manifest](./B87b9c9c_04f1_4eb5_983c_f2259c3842f1Project/manifest.v3) file. Service and API documentation is available on the package's home page http://&lt;server&gt;:&lt;port&gt;/&lt;packagename>.
